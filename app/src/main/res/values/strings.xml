@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mercado Medieval Xàtiva 2016</string>
+    <string name="lunes_2">Lunes 2</string>
+    <string name="martes_3">Martes 3</string>
+    <string name="miercoles_4">Miércoles 4</string>
+    <string name="action_settings">Información</string>
+    <string name="lunes_2_de_enero">Lunes 2 de Enero</string>
+    <string name="martes_3_de_enero">Martes 3 de Enero</string>
+    <string name="miercoles_4_de_enero">Miércoles 4 de Enero</string>
+    <string name="apertura_del_mercat">Apertura del Mercado</string>
+    <string name="cia_papa_lluna_teatre_els_murris">CIA. Papa Luna Teatro: Los Pícaros</string>
+    <string name="cia_papa_lluna_teatre_la_cort">CIA. Papa Luna Teatro: La Corte</string>
+    <string name="cia_papa_lluna_teatre_la_fam_lia_fant_stica">CIA. Papa Luna Teatro: La Familia Fantástica</string>
+    <string name="cloenda_del_mercat">Clausura del Mercado</string>
+    <string name="exposici_de_manuscrits_antics">Exposición de Manuscritos Antiguos</string>
+    <string name="falconeria_exhibici_de_vol">Cetrería: Exhibición de vuelo</string>
+    <string name="granja_d_animals">Granja de Animales</string>
+    <string name="inauguracio">Inauguración</string>
+    <string name="obertura_de_l_espai_infantil_i_ludoteca_musical">Apertura del Espacio Infantil i Ludoteca Musical</string>
+    <string name="ofici_cristi_luthier">Oficio Cristiano: Luthier</string>
+    <string name="ofici_rab_torner_de_peus">Oficio Árabe: Tornero de Pies</string>
+    <string name="pasacarrers_m_sica_grup_rab_al_ibi">Pasacalles Música: Grup Árabe AL IBI</string>
+    <string name="passeig_d_oques">Paseo de Ocas</string>
+    <string name="soc_i_teteria_rab">Zoco y Tetería Árabe</string>
+    <string name="tavernes_i_pulper_a">Tabernas y Pulpería</string>
+    <string name="xerrada_associaci_de_c_tara_nosaltres_els_c_tars">Charla Asociación de Cátara en la exposición \"Nosotros los Cátaros\"</string>
+    <string name="haciendo_click_en_este_anuncio_ayudas_a_la_creaci_n_de_m_s_aplicaciones_como_esta">Haciendo click en este anuncio ayudas a la creación de más aplicaciones como esta</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5645531133372940/7442462919</string>
+    <string name="exposici_n_de_armas">Exposición de Armas</string>
+    <string name="pasacalles_m_sica_grupo_mermicolion">Pasacalles Música: Grupo MERMICOLION</string>
+</resources>

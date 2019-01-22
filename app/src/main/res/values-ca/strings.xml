@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Informació</string>
+    <string name="lunes_2_de_enero">Dilluns 2 de Gener</string>
+    <string name="lunes_2">Dilluns 2</string>
+    <string name="martes_3">Dimarts 3</string>
+    <string name="miercoles_4">Dimecres 4</string>
+    <string name="app_name">Mercat Medieval Xàtiva 2016</string>
+    <string name="martes_3_de_enero">Dimarts 3 de Gener</string>
+    <string name="miercoles_4_de_enero">Dimecres 4 de Gener</string>
+    <string name="apertura_del_mercat">Obertura del Mercat</string>
+    <string name="obertura_de_l_espai_infantil_i_ludoteca_musical">Obertura de l\'Espai Infantil i Ludoteca Musical</string>
+    <string name="inauguracio">Inauguració</string>
+    <string name="falconeria_exhibici_de_vol">Falconeria: Exhibició de vol</string>
+    <string name="exposici_de_manuscrits_antics">Exposició de Manuscrits Antics</string>
+    <string name="ofici_cristi_luthier">Ofici Cristià: Luthier</string>
+    <string name="pasacarrers_m_sica_grup_rab_al_ibi">Pasacarrers Música: Grup Àrab AL IBI</string>
+    <string name="cia_papa_lluna_teatre_la_cort">CIA. Papa Lluna Teatre: La Cort</string>
+    <string name="passeig_d_oques">Passeig d\'Oques</string>
+    <string name="soc_i_teteria_rab">Soc i Teteria Àrab</string>
+    <string name="granja_d_animals">Granja d\'Animals</string>
+    <string name="cia_papa_lluna_teatre_els_murris">CIA. Papa Lluna Teatre: Els Murris</string>
+    <string name="xerrada_associaci_de_c_tara_nosaltres_els_c_tars">Xerrada Associació de Càtara en la exposició \"Nosaltres els Càtars\"</string>
+    <string name="ofici_rab_torner_de_peus">Ofici Àrab: Torner de Peus</string>
+    <string name="cia_papa_lluna_teatre_la_fam_lia_fant_stica">CIA. Papa Lluna Teatre: La Família Fantàstica</string>
+    <string name="tavernes_i_pulper_a">Tavernes i Pulpería</string>
+    <string name="cloenda_del_mercat">Cloenda del Mercat</string>
+    <string name="haciendo_click_en_este_anuncio_ayudas_a_la_creaci_n_de_m_s_aplicaciones_como_esta">Fent click en aquest anunci ajudes a la creació d\'aplicacions com aquestes</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5645531133372940/7442462919</string>
+    <string name="exposici_n_de_armas">Exposició d\'Armes</string>
+    <string name="pasacalles_m_sica_grupo_mermicolion">Pasacarrers Música: Grup MERMICOLION</string>
+</resources>
